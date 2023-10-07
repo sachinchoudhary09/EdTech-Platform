@@ -35,7 +35,7 @@ The CodePlay is built using the following technologies:
 
 ## Acknowledgements
 
-The CodePlay was created by Pranjal Mishra. Special thanks to Love Babbar Bhaiya and CodeHelp.
+The CodePlay was created by Sachin.
 
 ## Contact
 
