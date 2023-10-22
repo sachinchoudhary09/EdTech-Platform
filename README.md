@@ -35,7 +35,7 @@ The CodePlay is built using the following technologies:
 
 ## Acknowledgements
 
-The CodePlay was created by Sachin.
+The CodePlay is created by Sachin.
 
 ## Contact
 
